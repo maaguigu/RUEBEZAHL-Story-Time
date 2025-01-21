@@ -3,7 +3,7 @@ Flughafen : Airport
 Berlin : Capital of Germany 
 (X) Bratwurst : Type of german sausage
 Hauptstrasse : Main Street
-Brot : Bread
+(X) Brot : Bread
 Klimaanlage: Air Conditioning
 (X) Rammstein : German Band whcih translates to ramming stone
 Porsche : It translates to offerings, but it is also a car model.
@@ -13,12 +13,12 @@ Ratskeller : Name given to bar or restaurants located in the basement of a city 
 Dirndel : Feminine dress traditionally worn by women form the Alpine regions.
 (X) Lederhose : Leather Pants
 (X) Schloss : Lock
-wettbewerbsfaehig : Competitive
+(X) wettbewerbsfaehig : Competitive
 (X) Mehlhase : Flour Bunny also, professor's last name
 Gebaeck : Pastries
 (X) Baeckerei : Bakery
 (X) Hund : Dog
-Doener : Not sure about this one, did find that in turkish it means turning around itself or rotating, while in German, it could be a sandwich (Done Kebab)
+(X) Doener : Not sure about this one, did find that in turkish it means turning around itself or rotating, while in German, it could be a sandwich (Done Kebab)
 (X) Apfelkuchen : Apple Pie
 Schloss : Lock (repeated word?)
 Eltz : Surname and name of a medieval castle :) 
