@@ -1,8 +1,8 @@
 #Pull Request document
 - [ ] Andrew
-- [ ]Edwin
+- [ ] Edwin
 - [x] (Jedi https://github.com/nfontes263/drachenstein_icebreaker/pull/1 )
-- [ ]Jimmy
-- [ ]Karl
-- [ ]Mohammed
-- [ ]Noel
+- [ ] Jimmy
+- [ ] Karl
+- [ ] Mohammed
+- [ ] Noel
