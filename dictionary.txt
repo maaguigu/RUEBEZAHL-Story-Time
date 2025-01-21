@@ -2,23 +2,23 @@ Raesfeld : German municipality(place) in the state of North Rhine-Westphalia
 Flughafen : Airport
 Berlin : Capital of Germany 
 (X) Bratwurst : Type of german sausage
-Hauptstrasse : Main Street
+(X) Hauptstrasse : Main Street
 (X) Brot : Bread
-Klimaanlage: Air Conditioning
+(X) Klimaanlage: Air Conditioning
 (X) Rammstein : German Band whcih translates to ramming stone
-Porsche : It translates to offerings, but it is also a car model.
-BMW : Its the car, but it stands for Bayerische Motoren Weke which is the name from where the company origins (Bavaria)
+(X) Porsche : It translates to offerings, but it is also a car model.
+(X) BMW : Its the car, but it stands for Bayerische Motoren Weke which is the name from where the company origins (Bavaria)
 (X) Biergarten : Beer Garden
-Ratskeller : Name given to bar or restaurants located in the basement of a city hall or nearby. 
-Dirndel : Feminine dress traditionally worn by women form the Alpine regions.
+(X) Ratskeller : Name given to bar or restaurants located in the basement of a city hall or nearby. 
+(X)Dirndel : Feminine dress traditionally worn by women form the Alpine regions.
 (X) Lederhose : Leather Pants
 (X) Schloss : Lock
 (X) wettbewerbsfaehig : Competitive
 (X) Mehlhase : Flour Bunny also, professor's last name
-Gebaeck : Pastries
+(X) Gebaeck : Pastries
 (X) Baeckerei : Bakery
 (X) Hund : Dog
 (X) Doener : Not sure about this one, did find that in turkish it means turning around itself or rotating, while in German, it could be a sandwich (Done Kebab)
 (X) Apfelkuchen : Apple Pie
-Schloss : Lock (repeated word?)
+(X) Schloss : Lock (repeated word?)
 Eltz : Surname and name of a medieval castle :) 
