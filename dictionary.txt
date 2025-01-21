@@ -13,7 +13,7 @@ Ratskeller : Name given to bar or restaurants located in the basement of a city 
 Dirndel : Feminine dress traditionally worn by women form the Alpine regions.
 (X) Lederhose : Leather Pants
 (X) Schloss : Lock
-wettbewerbsfaehig : Competitive
+(X) wettbewerbsfaehig : Competitive
 (X) Mehlhase : Flour Bunny also, professor's last name
 Gebaeck : Pastries
 (X) Baeckerei : Bakery
